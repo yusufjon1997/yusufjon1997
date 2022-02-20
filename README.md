@@ -1,6 +1,6 @@
 ### Hi there 👋
-- I am a Frontend Developer with great knowledge in backend. I am very passinate about learning and implementing new technologies in my project. 
-- I love Javascript and its endless libraries and frameworks. Now I am focusing on building Ecommerce web applications with new features
+ I am a Frontend Developer with great knowledge in backend. I am very passinate about learning and implementing new technologies in my project. 
+ I love Javascript and its endless libraries and frameworks. Now I am focusing on building Ecommerce web applications with new features
 
 - 🔭 I’m currently working on ... Ecommerce application
 - 🌱 I’m currently learning ... Data structures and Algorithms
