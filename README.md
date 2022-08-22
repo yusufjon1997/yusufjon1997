@@ -10,4 +10,5 @@
 - 📫 How to reach me: ... [my Linkedin](https://www.linkedin.com/in/yusuf-yunusov-3b1186230/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am pretty lazy one
+https://www.codewars.com/users/yusuf_dev/badges/large
 
